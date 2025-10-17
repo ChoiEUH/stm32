@@ -2,7 +2,7 @@
 
 사용 Peripheral
 
-1.GPIO(Interrupt 포함)
+1.GPIO(레지스터 제어, Interrupt 포함)
 
 2.USART(None-Frame,STXANDETX,STXONLY, 레지스터 제어 등)
 
