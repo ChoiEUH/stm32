@@ -1,0 +1,9 @@
+main.c:78:6:QMC_init	1
+main.c:89:6:QMC_Read	2
+main.c:102:5:main	1
+main.c:151:6:SystemClock_Config	3
+main.c:197:13:MX_I2C1_Init	4
+main.c:245:13:MX_USART3_UART_Init	2
+main.c:278:13:MX_GPIO_Init	1
+main.c:329:6:HAL_I2C_MemRxCpltCallback	2
+main.c:344:6:Error_Handler	1
