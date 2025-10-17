@@ -15,4 +15,7 @@
 
 7.ETH, TCP
 
-8. OpenAI Connect(센서값 분석)
+8. FreeRTOS
+
+9. OpenAI Connect(센서값 분석)
+
