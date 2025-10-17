@@ -16,6 +16,7 @@
 
 7.ETH, TCP
 
+
 8. FreeRTOS
 
 9. OpenAI Connect(센서값 분석)
