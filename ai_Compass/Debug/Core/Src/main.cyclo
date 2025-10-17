@@ -1,0 +1,12 @@
+../Core/Src/main.c:100:6:QMC_init	1
+../Core/Src/main.c:111:6:QMC_Read	2
+../Core/Src/main.c:119:6:HAL_I2C_MemRxCpltCallback	2
+../Core/Src/main.c:134:5:main	1
+../Core/Src/main.c:224:6:SystemClock_Config	3
+../Core/Src/main.c:270:13:MX_I2C1_Init	4
+../Core/Src/main.c:318:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:351:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:384:13:MX_GPIO_Init	1
+../Core/Src/main.c:455:6:qmcTask	1
+../Core/Src/main.c:479:6:BTTask	2
+../Core/Src/main.c:496:6:Error_Handler	1
