@@ -1,4 +1,5 @@
 # ADC 레지스터를 이용한 단순 센서데이터 수집
+![20250730_162007](https://github.com/user-attachments/assets/1e84668b-de2d-4e76-b5a5-979de656b7e6)
 
 ### STM32F429ZI사용, NTSF-4 써미스터(온도센서) 이용
 
