@@ -1,0 +1,7 @@
+../Core/Src/main.c:65:6:UART_Send_StxAndEtxFrame	1
+../Core/Src/main.c:84:6:UART_Send_StxOnlyFrame	1
+../Core/Src/main.c:105:5:main	2
+../Core/Src/main.c:160:6:SystemClock_Config	3
+../Core/Src/main.c:206:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:239:13:MX_GPIO_Init	1
+../Core/Src/main.c:306:6:Error_Handler	1
