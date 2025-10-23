@@ -6,7 +6,7 @@
 
    `tcp_connect(client_pcb, &server_ip, 5000, send_To_tcp);`
    
-3. 센서 데이터를 송 수신
+2. 센서 데이터를 송 수신
 이미 연결 된 TCP 세션을 통해 adc_tcp() 함수로 데이터를 전송 한다.
 
  ` HAL_ADC_Start(&hadc1);
