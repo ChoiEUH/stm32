@@ -10,6 +10,8 @@
 이미 연결 된 TCP 세션을 통해 adc_tcp() 함수로 데이터를 전송 한다.
 
  ` HAL_ADC_Start(&hadc1);
+ 
     adc = HAL_ADC_GetValue(&hadc1);
+    
     adc_tcp(); `
 
