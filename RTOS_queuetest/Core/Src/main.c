@@ -46,7 +46,7 @@ wifi d;
 
 char cwjap[] = "AT+CWJAP=\"choi\",\"cuh010108\"\r\n";
 
-char tcp[] = "AT+CIPSTART=\"TCP\",\"192.168.146.237\",5001\r\n";
+char tcp[] = "AT+CIPSTART=\"TCP\",\"192.xxx.xxx.xxx\",5001\r\n";
 
 char close[] = "AT+CIPCLOSE\r\n";
 
